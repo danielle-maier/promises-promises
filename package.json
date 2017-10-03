@@ -1,0 +1,23 @@
+{
+  "name": "promises-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielle-maier/promises-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielle-maier/promises-promises/issues"
+  },
+  "homepage": "https://github.com/danielle-maier/promises-promises#readme",
+  "dependencies": {
+    "superagent": "^3.6.2"
+  }
+}
